@@ -1,1 +1,4 @@
 site_name: My Docs
+repo_url: https://github.com/pmpaulino/timestamp
+nav: 
+  - Home: index.md
